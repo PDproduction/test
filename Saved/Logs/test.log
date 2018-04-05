@@ -269,3 +269,16 @@ LogInit: Object subsystem initialized
 [2018.04.05-13.41.39:483][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
 [2018.04.05-13.41.39:485][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2018.04.05-13.41.39:534][  0]LogSlate: Took 0.000877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.05-13.50.17:191][486]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.05-13.50.17:304][486]LogSavePackage: Save=77.23ms
+[2018.04.05-13.50.17:304][486]LogSavePackage: Moving '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Saved/FirstPersonExampleMap32408234412EF15108452FB284AE8CBF.tmp' to '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.05-13.50.17:307][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.05-13.50.18:196][486]LogSlate: Took 0.000815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.05-13.50.18:418][486]LogSavePackage: Save=1090.38ms
+[2018.04.05-13.50.18:418][486]LogSavePackage: Moving '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Saved/FirstPersonExampleMap_BuiltData012E307C4B997F35796E1A843605C47F.tmp' to '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.04.05-13.50.18:421][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.04.05-13.50.21:100][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/fbghzughfguzf" FILE="../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/map/fbghzughfguzf.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.05-13.50.21:122][739]LogSavePackage: Save=6.67ms
+[2018.04.05-13.50.21:122][739]LogSavePackage: Moving '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Saved/fbghzughfguzf895B1F8447AA9FDCA09F3799940423C6.tmp' to '../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/map/fbghzughfguzf.umap'
+[2018.04.05-13.50.21:124][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quentin/Documents/Unreal Projects/test/Content/map/fbghzughfguzf.umap
+[2018.04.05-13.50.21:125][739]LogFileHelpers: Saving map 'fbghzughfguzf' took 0.218
